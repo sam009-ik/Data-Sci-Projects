@@ -1,0 +1,53 @@
+DC_PK,LatDC,LonDC,ServedByPlant,DaysTransit,StoresServed,TypeTransit
+1,51.6818091,14.874997,Gibson and Sons,11,26,Normal
+2,54.2195351,-4.4012575,Lubowitz LLC,13,17,Black Haul
+3,-21.7972251,-50.879763,Lemke LLC,22,19,Black Haul
+4,4.0510564,9.7678687,Conroy-Cartwright,5,21,Normal
+5,39.2923338,-9.1684401,"Altenwerth, Robel and Gerhold",13,19,Normal
+6,16.6500928,121.2238236,Schulist-Hamill,19,22,Normal
+7,-7.5849174,111.8784707,Zulauf-Hilpert,39,24,Black Haul
+8,45.4401623,39.5186898,Dare-Howe,14,15,Black Haul
+9,25.482034,49.5547333,Bode and Sons,31,19,Black Haul
+10,41.4956796,-8.3620667,Kshlerin LLC,13,16,Normal
+11,22.493937,99.679493,Langworth Group,38,20,Normal
+12,38.8794495,-6.9706535,Toy-Boyle,24,17,Black Haul
+13,56.5006765,13.0587651,Corkery-Will,27,20,Normal
+14,49.9521295,22.4357438,Armstrong Group,11,19,Normal
+15,59.2933395,18.0994673,Steuber and Sons,38,27,Black Haul
+16,34.0665041,47.9762632,"Gutkowski, Brown and McDermott",32,22,Black Haul
+17,59.4953899,18.3229434,Mraz-Cremin,6,19,Normal
+18,45.7830298,14.2038417,"Herzog, Wiza and O'Reilly",27,19,Normal
+19,7.7906768,4.8002333,"Effertz, Schmitt and Medhurst",37,15,Black Haul
+20,-10.1269585,-63.8640569,Adams LLC,9,10,Black Haul
+21,28.6019464,-106.0244614,Cummings Inc,31,15,Black Haul
+22,55.1220513,37.9590427,"Lueilwitz, Pollich and Kessler",1,18,Black Haul
+23,-16.4613315,-49.9588111,Denesik-Windler,6,20,Black Haul
+24,-11.9019296,-76.6658165,"Halvorson, Hand and Lehner",13,19,Black Haul
+25,16.0765691,97.5843171,Ondricka-Lakin,10,22,Normal
+26,37.6583599,126.8320201,Jenkins and Sons,4,22,Normal
+27,4.1175121,117.8663075,Zemlak Group,3,14,Normal
+28,42.35,-71.06,Bartoletti-Romaguera,28,14,Normal
+29,49.0936632,17.3725325,Mayert-McGlynn,2,14,Normal
+30,28.682984,115.962144,Wolff-Steuber,5,18,Normal
+31,6.604594,-73.069241,"Wolf, Osinski and Abbott",24,24,Normal
+32,31.121239,121.370354,Mohr-Stark,17,23,Normal
+33,8.1679082,124.1582966,"Mueller, Wiza and Kessler",16,14,Black Haul
+34,45.207675,37.2884784,"Becker, Johnson and Harber",22,19,Normal
+35,-10.1904527,123.6007574,"Hessel, Schmitt and Denesik",1,24,Black Haul
+36,5.1227373,9.9520961,Russel and Sons,24,17,Black Haul
+37,56.0349544,35.9510395,Reilly and Sons,25,19,Normal
+38,34.0874479,-5.1784019,"Rath, Legros and Langosh",32,26,Black Haul
+39,18.1605511,121.6482773,Grimes-Durgan,23,23,Normal
+40,46.136968,15.3941873,"Crist, Kertzmann and Rowe",16,15,Normal
+41,-21.4909206,-47.37045,Kohler-Dibbert,20,25,Normal
+42,43.6652083,23.0759947,Ernser-Schroeder,12,22,Black Haul
+43,22.801624,113.525165,Conn-Hodkiewicz,10,16,Black Haul
+44,44.9346438,128.7694378,Ferry Inc,14,21,Black Haul
+45,52.5713649,39.5247021,"Hackett, Shanahan and Trantow",25,13,Black Haul
+46,42.6259555,41.734917,Weber-Hoeger,5,18,Black Haul
+47,56.0451329,14.5552742,"Stokes, Stokes and Corkery",10,10,Black Haul
+48,28.228209,112.938814,Douglas-Walker,23,15,Black Haul
+49,26.2285161,50.5860497,"Buckridge, Skiles and Bogisich",9,24,Black Haul
+50,6.4387946,100.1947477,Stark and Sons,18,15,Black Haul
+51,-31.6577222,-60.7829517,Schiller LLC,34,35,Normal
+52,47.594843,1.3155028,"Trantow, Wehner and Runte",39,15,Normal
