@@ -1,4 +1,4 @@
-# Data Science Projects by Sam
+# Data Science Projects
 
 Welcome to my Data Science Projects repository! Here, you'll find a collection of my work focused on exploring, analyzing, and visualizing data across various domains. Each project is a testament to my journey in harnessing the power of data to uncover insights and build predictive models.
 
@@ -32,6 +32,7 @@ Through these projects, I've developed and showcased skills in:
 - Jupyter Notebooks
 - PostgreSQL
 - Git and GitHub
+  
 
 ## Getting Started
 
@@ -39,7 +40,7 @@ To dive into these projects, clone this repository using:
 
 ```bash
 git clone https://github.com/sam009-ik/Data-Sci-Projects.git
-
+```
 ## About Me
 
 I'm a data science enthusiast passionate about extracting knowledge and insights from data. With a background in various fields, I am keen on applying data science to solve real-world problems.
@@ -49,3 +50,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/samarth-narula-0733821
 ## Contributions
 
 Feedback, suggestions, and contributions are welcome! Feel free to fork this repository, submit pull requests, or open issues to discuss improvements or collaborate on new projects.
+
